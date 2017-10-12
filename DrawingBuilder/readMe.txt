@@ -18,3 +18,5 @@
 Remarque : - Un manque de fluidité est à noter dans le deplacement des figures, il faut que je vois le problème au niveau de l'update du monde 2D
 	   - Le générateur de niveau est à venir (mon idée étant de recréer un monde identique au jeu et de construire une figure puis selectionner les figures du dessin
 	     et sauvegarder les paramètres du dessin dans un fichier XML qui servira d'identifiant du niveau).
+
+You can test the game opening the .exe file in the release folder.
