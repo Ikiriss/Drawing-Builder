@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Wed Aug 30 17:05:29 CEST 2017 -->
+
+
+<elements level="1">
+	<circle xpos="450" ypos="865" radius="50"/>
+	<circle xpos="600" ypos="865" radius="50"/>
+	<polygon xpos="475" ypos="765"/>
+</elements>
+

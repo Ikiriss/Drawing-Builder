@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<elements level="2">
+  <polygon xpos="590.078735" ypos="810.490601" numberOfPoint="4">
+    <point xpos="-109" ypos="-54.5" />
+    <point xpos="109" ypos="-54.5" />
+    <point xpos="109" ypos="54.5" />
+    <point xpos="-109" ypos="54.5" />
+  </polygon>
+  <polygon xpos="724.963257" ypos="800.140442" numberOfPoint="3">
+    <point xpos="50" ypos="53" />
+    <point xpos="-53" ypos="47" />
+    <point xpos="3" ypos="-47" />
+  </polygon>
+  <circle xpos="687.470032" ypos="914.995361" radius="50" />
+  <circle xpos="501.915558" ypos="914.995117" radius="50" />
+</elements>
